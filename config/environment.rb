@@ -1,5 +1,5 @@
-# Load the Rails application.
+# Load the rails application
 require File.expand_path('../application', __FILE__)
 
-# Initialize the Rails application.
-DemoApp2::Application.initialize!
+# Initialize the rails application
+CloudRegistry::Application.initialize!
